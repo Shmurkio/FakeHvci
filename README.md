@@ -18,4 +18,4 @@ This project is **only a proof of concept**.
 
 ## Showcase
 
-[![Showcase](https://img.youtube.com/vi/vLGsWwLmpeI/maxresdefault.jpg)](https://www.youtube.com/watch?v=vLGsWwLmpeI)
+[![Showcase](https://img.youtube.com/vi/Q-vAiqaQjlw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q-vAiqaQjlw )
